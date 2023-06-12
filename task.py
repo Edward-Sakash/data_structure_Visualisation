@@ -6,6 +6,7 @@ Let's say we want to find the solution to f(x) = exp(x)+x
   How to do it?"""
 ###################################################################
 
+# Solution 1
 import numpy as np
 import matplotlib.pyplot as plt
 
